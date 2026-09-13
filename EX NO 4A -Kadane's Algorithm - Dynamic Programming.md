@@ -1,6 +1,6 @@
 # EX 4A Kadane's Algorithm - Dynamic Programming
 
-## DATE: 26.6.26
+## DATE: 26.8.26
 
 ## AIM:
 
